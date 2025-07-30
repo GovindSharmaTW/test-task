@@ -19,7 +19,7 @@ function App() {
     { id: 2, title: 'test-02', body: 'Lorem ipsum dummy test' },
     { id: 3, title: 'test-03', body: 'Lorem ipsum dummy test' },
     { id: 4, title: 'test-04', body: 'Lorem ipsum dummy test' },
-    { id: 5, title: 'test-04', body: 'Lorem ipsum dummy test_development' },
+    { id: 5, title: 'test-04', body: 'Lorem ipsum dummy test_development_new' },
     { id: 6, title: 'test-04', body: 'Lorem ipsum dummy test_dev' }
   ];
 
