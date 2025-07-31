@@ -20,7 +20,12 @@ function App() {
     { id: 3, title: 'test-03', body: 'Lorem ipsum dummy test' },
     { id: 4, title: 'test-04', body: 'Lorem ipsum dummy test' },
     { id: 5, title: 'test-04', body: 'Lorem ipsum dummy test_development_new' },
-    { id: 6, title: 'test-04', body: 'Lorem ipsum dummy test_dev' }
+    { id: 6, title: 'test-04', body: 'Lorem ipsum dummy test_dev' },
+    { id: 7, title: 'test-04', body: 'Lorem ipsum dummy test_development' },
+    { id: 8, title: 'test-04', body: 'Lorem ipsum dummy main' },
+    { id: 9, title: 'test-04', body: 'Lorem ipsum dummy main_second' },
+    { id: 10, title: 'test-04', body: 'Lorem ipsum dummy test_development_diff2' },
+    { id: 11, title: 'test-04', body: 'Lorem ipsum dummy test_main' }
   ];
 
   return (
