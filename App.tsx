@@ -24,6 +24,7 @@ function App() {
     { id: 7, title: 'test-04', body: 'Lorem ipsum dummy main_second' },
     { id: 8, title: 'test-04', body: 'Lorem ipsum dummy test_development_diff2' },
     { id: 9, title: 'test-04', body: 'Lorem ipsum dummy test_rebase_Changes_01' },
+    { id: 10, title: 'test-04', body: 'Lorem ipsum dummy test_rebase_Changes_02' }
   ];
 
   return (
